@@ -35,3 +35,23 @@ The project evaluates the performance of multiple forecasting methods and provid
 - Deploy an interactive Streamlit dashboard.
 
 ---
+## Datasets
+
+### Historical Stock Market Dataset
+
+**Source:** Yahoo Finance
+
+**Selected LSE Companies**
+
+| Ticker | Company |
+|---------|----------|
+| BP.L | BP plc |
+| SHEL.L | Shell plc |
+| TSCO.L | Tesco plc |
+| ULVR.L | Unilever plc |
+| BLND.L | British Land |
+| LAND.L | Land Securities |
+| SGE.L | Sage Group |
+| CCC.L | Computacenter |
+| AZN.L | AstraZeneca |
+| GSK.L | GSK plc |
