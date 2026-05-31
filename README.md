@@ -40,8 +40,11 @@ The project evaluates the performance of multiple forecasting methods and provid
 ### Historical Stock Market Dataset
 
 **Source:** Yahoo Finance
-
 **Selected LSE Companies**
+
+| **Ticker** | BP.L | SHEL.L |
+|---------|----------|----------|
+| **Company** | BP plc | Shell plc |
 
 | Ticker | Company |
 |---------|----------|
