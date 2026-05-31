@@ -43,7 +43,7 @@ The project evaluates the performance of multiple forecasting methods and provid
 **Selected LSE Companies**
 
 | **Ticker** | BP.L | SHEL.L | TSCO.L | ULVR.L | BLND.L | LAND.L | SGE.L | CCC.L | AZN.L | GSK.L |
-|------------|------|--------|--------|--------|--------|--------|-------|-------|-------|-------|
+|------------|---------|-----------|-----------|--------------|--------------|-----------------|------------|------------|------------|----------|
 | **Company** | BP plc | Shell plc | Tesco plc | Unilever plc | British Land | Land Securities | Sage Group | Computacenter | AstraZeneca | GSK plc |
 
 | Ticker | Company |
