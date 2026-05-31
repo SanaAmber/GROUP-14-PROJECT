@@ -83,22 +83,16 @@ The project evaluates the performance of multiple forecasting methods and provid
 ```text
 Historical Stock Data + Macroeconomic Data
                     │
-                    ▼
       Data Collection & Integration
                     │
-                    ▼
      Data Cleaning & Preprocessing
                     │
-                    ▼
           Feature Engineering
                     │
-                    ▼
           Data Normalisation
                     │
-                    ▼
              Train/Test Split
                     │
-                    ▼
      ┌──────────────────────────┐
      │      Model Training      │
      ├──────────────────────────┤
@@ -107,16 +101,12 @@ Historical Stock Data + Macroeconomic Data
      │ • Transfer Learning      │
      └──────────────────────────┘
                     │
-                    ▼
        Hyperparameter Tuning
                     │
-                    ▼
           Model Evaluation
                     │
-                    ▼
          Prediction Comparison
                     │
-                    ▼
         Streamlit Web Dashboard
 ```
 
