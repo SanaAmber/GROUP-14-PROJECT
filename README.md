@@ -208,27 +208,28 @@ Used as a benchmark against deep learning approaches.
 ```text
 stock-market-prediction/
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── README.md
+│
+├── datasets/
+│   ├── 10_stock_data.csv
+│   └── UK_Macroeconomic_Dataset.csv
+│
+├── docs/
+│   ├── 1_Project_Specifications.docx
+│   ├── 2_Project_Timeline.docx
+│   ├── 3_Data_Management_Plan.docx
+│   ├── 4_Pipeline_Workflow.docx
+│   ├── 5_Test_Plan.docx
+│   └── 6_Team_Plan.docx
 │
 ├── notebooks/
 │
 ├── src/
-│   ├── preprocessing/
-│   ├── feature_engineering/
-│   ├── models/
-│   ├── evaluation/
-│   └── utils/
-│
-├── streamlit_app/
 │
 ├── tests/
 │
-├── docs/
+├── reports/
 │
-├── requirements.txt
-├── README.md
 └── .gitignore
 ```
 
