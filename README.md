@@ -9,6 +9,7 @@ This project is about the analysis and prediction of stock market prices using M
 Historical stock market data from selected companies listed on the London Stock Exchange (LSE) is combined with UK macroeconomic indicators to develop predictive models that can forecast future stock prices.
 
 The project evaluates the performance of multiple forecasting methods and provides an interactive Streamlit dashboard where users can visualise stock trends and prediction results.
+
 ---
 ## Research Question
 
