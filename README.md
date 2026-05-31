@@ -42,9 +42,9 @@ The project evaluates the performance of multiple forecasting methods and provid
 **Source:** Yahoo Finance
 **Selected LSE Companies**
 
-| **Ticker** | BP.L | SHEL.L |
+| **Ticker** | BP.L | SHEL.L | TSCO.L |
 |---------|----------|----------|
-| **Company** | BP plc | Shell plc |
+| **Company** | BP plc | Shell plc | Tesco plc |
 
 | Ticker | Company |
 |---------|----------|
