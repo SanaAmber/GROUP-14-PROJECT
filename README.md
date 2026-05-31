@@ -210,11 +210,11 @@ stock-market-prediction/
 │
 ├── README.md
 │
-├── datasets/
+├── Datasets/
 │   ├── 10_stock_data.csv
 │   └── UK_Macroeconomic_Dataset.csv
 │
-├── docs/
+├── Project plans documents/
 │   ├── 1_Project_Specifications.docx
 │   ├── 2_Project_Timeline.docx
 │   ├── 3_Data_Management_Plan.docx
@@ -222,13 +222,13 @@ stock-market-prediction/
 │   ├── 5_Test_Plan.docx
 │   └── 6_Team_Plan.docx
 │
-├── notebooks/
+├── Notebooks/
 │
-├── src/
+├── SRC/
 │
-├── tests/
+├── Tests/
 │
-├── reports/
+├── Reports/
 │
 └── .gitignore
 ```
