@@ -46,15 +46,80 @@ The project evaluates the performance of multiple forecasting methods and provid
 |------------|---------|-----------|-----------|--------------|--------------|-----------------|------------|------------|------------|----------|
 | **Company** | BP plc | Shell plc | Tesco plc | Unilever plc | British Land | Land Securities | Sage Group | Computacenter | AstraZeneca | GSK plc |
 
-| Ticker | Company |
-|---------|----------|
-| BP.L | BP plc |
-| SHEL.L | Shell plc |
-| TSCO.L | Tesco plc |
-| ULVR.L | Unilever plc |
-| BLND.L | British Land |
-| LAND.L | Land Securities |
-| SGE.L | Sage Group |
-| CCC.L | Computacenter |
-| AZN.L | AstraZeneca |
-| GSK.L | GSK plc |
+### Features
+
+- Date
+- Open Price
+- High Price
+- Low Price
+- Close Price
+- Adjusted Close Price
+- Trading Volume
+- Stock Ticker
+
+---
+
+### UK Macroeconomic Dataset
+
+**Sources**
+
+- Yahoo Finance
+- FRED (Federal Reserve Economic Data)
+
+**Features**
+
+- Inflation Rate
+- Interest Rate
+- GDP Growth
+- Unemployment Rate
+- Exchange Rate
+- CPI
+- FTSE100 Index
+
+---
+
+## Project Pipeline
+
+```text
+Historical Stock Data + Macroeconomic Data
+                    │
+                    ▼
+      Data Collection & Integration
+                    │
+                    ▼
+     Data Cleaning & Preprocessing
+                    │
+                    ▼
+          Feature Engineering
+                    │
+                    ▼
+          Data Normalisation
+                    │
+                    ▼
+             Train/Test Split
+                    │
+                    ▼
+     ┌──────────────────────────┐
+     │      Model Training      │
+     ├──────────────────────────┤
+     │ • LSTM                   │
+     │ • CNN-LSTM               │
+     │ • Transfer Learning      │
+     └──────────────────────────┘
+                    │
+                    ▼
+       Hyperparameter Tuning
+                    │
+                    ▼
+          Model Evaluation
+                    │
+                    ▼
+         Prediction Comparison
+                    │
+                    ▼
+        Streamlit Web Dashboard
+```
+
+---
+
+
