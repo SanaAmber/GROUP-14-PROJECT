@@ -139,12 +139,6 @@ Combines CNN layers for feature extraction with LSTM layers for temporal learnin
 
 Leverages pre-trained forecasting architectures to improve generalisation and reduce training complexity.
 
-### 4. Benchmark Model
-
-- XGBoost Regressor
-
-Used as a benchmark against deep learning approaches.
-
 ---
 
 ## Evaluation Metrics
@@ -194,7 +188,7 @@ Used as a benchmark against deep learning approaches.
 
 ### Deployment
 
-- Streamlit
+- Web Application
 
 ### Version Control
 
@@ -318,8 +312,8 @@ Testing includes:
 | Sana Amber | GitHub Document Manager |
 | Laxmi Gurrala | Scrum Master |
 | Abimbola Olasupo | Communications Leader |
-| Muhammad Azeem | Test Plan Manager |
-| Zafar Iftikhar | Code Review Manager |
+| Muhammad Azeem | Code Review Manager |
+| Zafar Iftikhar | Test Plan Manager |
 
 ---
 
