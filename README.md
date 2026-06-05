@@ -8,7 +8,7 @@ This project is about the analysis and prediction of stock market prices using M
 
 Historical stock market data from selected companies listed on the London Stock Exchange (LSE) is combined with UK macroeconomic indicators to develop predictive models that can forecast future stock prices.
 
-The project evaluates the performance of multiple forecasting methods and provides an interactive Streamlit dashboard where users can visualise stock trends and prediction results.
+The project evaluates the performance of multiple forecasting methods and provides an interactive web application dashboard where users can visualise stock trends and prediction results.
 
 ---
 ## Research Question
@@ -32,7 +32,7 @@ The project evaluates the performance of multiple forecasting methods and provid
   - Transfer Learning Model
 - Optimise model performance through hyperparameter tuning.
 - Evaluate models using industry-standard performance metrics.
-- Deploy an interactive Streamlit dashboard.
+- Deploy an interactive web application dashboard.
 
 ---
 ## Datasets
@@ -282,7 +282,7 @@ python src/evaluation/evaluate_models.py
 ### Launch Dashboard
 
 ```bash
-streamlit run streamlit_app/app.py
+web application run web application_app/app.py
 ```
 
 ---
@@ -329,7 +329,7 @@ Testing includes:
 | Transfer Learning Model | Week 6 |
 | Hyperparameter Tuning | Week 7 |
 | Model Evaluation | Week 8 |
-| Streamlit Dashboard | Week 9 |
+| Web Application Dashboard | Week 9 |
 | Testing & UAT | Week 10 |
 | Documentation | Week 11 |
 | Final Submission | Week 12 |
